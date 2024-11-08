@@ -27,3 +27,4 @@ class Solution {
     }
 }
 ```
+## **Key Concept:** The numbers in the array are strictly increasing till the peak element and then decreasing. Hence, peak element probably lies where the right side element `m+1` is lesser than the middle element `m`.
